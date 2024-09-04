@@ -33,7 +33,7 @@ The project assumes the existence of three primary tables:
 
 ## Queries
 
-The SQL file (`uncovering_oldest_newest_business.sql`) contains the following queries:
+[The SQL file](https://github.com/trareinaung/Uncovering-the-oldest-and-newest-business-in-the-world/blob/main/uncovering_oldest_newest_business.sql) contains the following queries:
 
 1. **Oldest and Newest Businesses**
    - Identify the oldest and newest founded organizations and their countries of origin.
@@ -58,4 +58,8 @@ The SQL file (`uncovering_oldest_newest_business.sql`) contains the following qu
 
 8. **Geographic Distribution of Older Businesses**
    - Investigate if older businesses are more likely to be found in specific countries or regions.
+
+## Author
+
+[Thu Rein Aung](https://github.com/trareinaung)
 
